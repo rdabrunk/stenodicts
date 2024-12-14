@@ -1,4 +1,5 @@
 {
+"234-6R": "{#Control_L(Tab)}{^^}",
 "STPHROR": "{#Left}{^}",
 "STPH-RB": "{#Control_L(Left)}{^}",
 "STPH-P": "{#Up}{^}",
@@ -35,7 +36,8 @@
 "PHRO*F": "{PLOVER:SUSPEND}",
 "PHRO*PB": "{PLOVER:RESUME}",
 "PHROLG": "{PLOVER:TOGGLE}",
-"R*R": "{#Return}{^}",
+"W-B": "{#Escape}",
+"R*R": "{#shift(return)}{^^}",
 "R-R": "{^~|\n^}",
 "*UPD": "{*<}"
 }
